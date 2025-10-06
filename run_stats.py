@@ -31,7 +31,7 @@ Results from all tests are assembled into a table with fields
 from __future__ import annotations
 
 import os
-from typing import List, Tuple, Optional
+from typing import List, Tuple, Optional, Dict
 
 import numpy as np
 import pandas as pd

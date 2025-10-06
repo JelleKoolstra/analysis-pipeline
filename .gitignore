@@ -1,0 +1,28 @@
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and results
+*.csv
+*.parquet
+*.npy
+*.npz
+
+# Plots and images
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/

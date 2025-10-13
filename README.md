@@ -27,20 +27,10 @@ python run_all.py <matrix_dir> <out_dir>
 - `run_stats.py`: Performs statistical tests
 - `visualization.py`: Creates plots and heatmaps
 
-## Requirements
+## Python version
 
 - Python 3.8+
-- numpy
-- pandas
-- scipy
-- statsmodels
-- matplotlib
 
-Install dependencies with:
-
-```bash
-pip install numpy pandas scipy statsmodels matplotlib
-```
 
 ## File Structure
 
